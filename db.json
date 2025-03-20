@@ -1,5 +1,17 @@
 {
-    "ping": {
-        "ping": "pong"
+  "ping": {
+    "ping": "pong"
+  },
+  "seed": [
+    {
+      "id": 1,
+      "name": "random",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 2,
+      "name": "random",
+      "image": "https://picsum.photos/200"
     }
+  ]
 }
